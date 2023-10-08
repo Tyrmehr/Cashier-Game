@@ -1,5 +1,4 @@
-/*Name: Rajan Mehrpanah
- * Date: October 8 2020
+/*
  * Project: Assignment #1: Restaurant project
  */
 
