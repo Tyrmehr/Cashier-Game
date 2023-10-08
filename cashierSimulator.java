@@ -9,7 +9,7 @@ public class cashierSimulator {
 		// Intro to the code, waiter is taking the order for your meal
 		Scanner in= new Scanner(System.in); 
 		System.out.println("Welcome to Langstaff Diner!\n");
-		System.out.println("Your waiter today is Rajan Mehrpanah");
+		System.out.println("Your waiter today is Darth Vader!");
 		System.out.println("\n");
 		System.out.println("How many Cheesburgers would you like?");
 		int ches= in.nextInt();
