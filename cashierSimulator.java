@@ -1,6 +1,4 @@
-/*
- * Project: Assignment #1: Restaurant project
- */
+
 
 import java.util.*;
 public class cashierSimulator {
